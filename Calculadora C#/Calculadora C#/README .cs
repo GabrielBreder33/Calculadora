@@ -1,6 +1,6 @@
 ﻿# Calculadora Simples em C#
 
-Este é um projeto de uma calculadora simples em C#, desenvolvido como parte de um aprendizado e prática de programação.
+Este é um projeto de uma calculadora simples em C#.
 
 ## Funcionalidades
 
