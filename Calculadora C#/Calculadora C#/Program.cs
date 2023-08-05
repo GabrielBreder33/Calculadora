@@ -6,7 +6,7 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculadora Simples");
+            Console.WriteLine("Calculadora");
             Console.WriteLine("-------------------");
             Console.WriteLine("Digite o primeiro número:");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -37,7 +37,7 @@ namespace Calculadora
                     }
                     else
                     {
-                        Console.WriteLine("Erro: Divisão por zero não é permitida.");
+                        Console.WriteLine("Erro! Divisão por zero não é permitida.");
                         return;
                     }
                     break;
